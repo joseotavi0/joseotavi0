@@ -10,6 +10,6 @@ Right now, I'm on a journey to become a full-stack developer. I'm diving deep in
 📫 You can reach out to me via email at jose.otavio999@gmail.com. I'm always open to new opportunities, collaborations, or just a friendly chat!
 
 ## Let's Connect
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/jose-otavio](https://www.linkedin.com/in/jose-otavio-deoliveira/)) to stay updated on my projects and journey in the world of software development.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jose-otavio-deoliveira/) to stay updated on my projects and journey in the world of software development.
 
 
